@@ -9783,16 +9783,16 @@ Source: Samtec TSW.pdf</description>
 </part>
 <part name="GND11" library="Scott" deviceset="GND" device=""/>
 <part name="GND12" library="Scott" deviceset="GND" device=""/>
-<part name="R25" library="Scott" deviceset="R-US_" device="R0805" value="6k8">
+<part name="R25" library="Scott" deviceset="R-US_" device="R0805" value="6k8 1%">
 <attribute name="MPN" value="RC0805FR-076K8L"/>
 </part>
-<part name="R24" library="Scott" deviceset="R-US_" device="R0805" value="6k8">
+<part name="R24" library="Scott" deviceset="R-US_" device="R0805" value="6k8 1%">
 <attribute name="MPN" value="RC0805FR-076K8L"/>
 </part>
-<part name="R20" library="Scott" deviceset="R-US_" device="R0805" value="6k8">
+<part name="R20" library="Scott" deviceset="R-US_" device="R0805" value="6k8 1%">
 <attribute name="MPN" value="RC0805FR-076K8L"/>
 </part>
-<part name="R19" library="Scott" deviceset="R-US_" device="R0805" value="6k8">
+<part name="R19" library="Scott" deviceset="R-US_" device="R0805" value="6k8 1%">
 <attribute name="MPN" value="RC0805FR-076K8L"/>
 </part>
 <part name="IC4" library="Scott" deviceset="LMC7101" device="">
@@ -9849,10 +9849,10 @@ Source: Samtec TSW.pdf</description>
 <part name="R8" library="Scott" deviceset="R-US_" device="R0805" value="1k37 1%">
 <attribute name="MPN" value="RC0805FR-071K37L"/>
 </part>
-<part name="C6" library="Scott" deviceset="C-US" device="0805" value=".01uF">
+<part name="C6" library="Scott" deviceset="C-US" device="0805" value="0.01uF">
 <attribute name="MPN" value="CL21B103KBANNNC"/>
 </part>
-<part name="C4" library="Scott" deviceset="C-US" device="0805" value=".01uF">
+<part name="C4" library="Scott" deviceset="C-US" device="0805" value="0.01uF">
 <attribute name="MPN" value="CL21B103KBANNNC"/>
 </part>
 <part name="GND17" library="Scott" deviceset="GND" device=""/>
@@ -9868,7 +9868,7 @@ Source: Samtec TSW.pdf</description>
 </part>
 <part name="GND20" library="Scott" deviceset="GND" device=""/>
 <part name="GND25" library="Scott" deviceset="GND" device=""/>
-<part name="R30" library="Scott" deviceset="R-US_" device="R0805" value="10K">
+<part name="R30" library="Scott" deviceset="R-US_" device="R0805" value="10k">
 <attribute name="MPN" value="RMCF0805JT10K0"/>
 </part>
 <part name="R31" library="Scott" deviceset="R-US_" device="R0805" value="1K58">
@@ -9899,10 +9899,10 @@ Source: Samtec TSW.pdf</description>
 <part name="Q2" library="Scott" deviceset="DMG4406LSS" device="">
 <attribute name="MPN" value="DMG4406LSS-13"/>
 </part>
-<part name="R11" library="Scott" deviceset="R-US_" device="R0805" value="1k37">
+<part name="R11" library="Scott" deviceset="R-US_" device="R0805" value="1k37 1%">
 <attribute name="MPN" value="RC0805FR-071K37L"/>
 </part>
-<part name="R12" library="Scott" deviceset="R-US_" device="R0805" value="2k55">
+<part name="R12" library="Scott" deviceset="R-US_" device="R0805" value="2k55 1%">
 <attribute name="MPN" value="RC0805FR-072K55L"/>
 </part>
 <part name="X5" library="Scott" deviceset="JUMPER-2" device="SMD-NO"/>
@@ -9923,7 +9923,7 @@ Source: Samtec TSW.pdf</description>
 <part name="RB0" library="Scott" deviceset="R-US_" device="R0805" value="1R">
 <attribute name="MPN" value="RMCF0805JT1R00 "/>
 </part>
-<part name="REN" library="Scott" deviceset="R-US_" device="R0805" value="10K">
+<part name="REN" library="Scott" deviceset="R-US_" device="R0805" value="10k">
 <attribute name="MPN" value="RMCF0805JT10K0"/>
 </part>
 <part name="L1" library="Scott" deviceset="L-US" device="L1210" value="4.7uH">
@@ -9967,22 +9967,22 @@ Source: Samtec TSW.pdf</description>
 <part name="U2" library="Scott" deviceset="ADP2300" device="">
 <attribute name="MPN" value="ADP2300AUJZ-R7"/>
 </part>
-<part name="CIN-NEG" library="Scott" deviceset="C-US" device="0805" value="4.7uF Low ESR">
+<part name="CIN-NEG" library="Scott" deviceset="C-US" device="0805" value="4.7uF">
 <attribute name="MPN" value="CL21A475KOFNNNE"/>
 </part>
-<part name="CC-NEG" library="Scott" deviceset="C-US" device="0805" value="1uF 16V low ESR">
+<part name="CC-NEG" library="Scott" deviceset="C-US" device="0805" value="1uF">
 <attribute name="MPN" value="CL21B105KBFNNNE"/>
 </part>
 <part name="COUT1-NEG" library="Scott" deviceset="C-US" device="0805" value="10uF">
 <attribute name="MPN" value="CL21B106KQQNNNE"/>
 </part>
-<part name="CBST-NEG" library="Scott" deviceset="C-US" device="0805" value="0.1uF 6.3v">
+<part name="CBST-NEG" library="Scott" deviceset="C-US" device="0805" value="0.1uF">
 <attribute name="MPN" value="CL21B104KACNNNC"/>
 </part>
 <part name="L1-NEG" library="Scott" deviceset="L-US" device="L1210" value="6.8uH">
 <attribute name="MPN" value="LQH32PN6R8NN0"/>
 </part>
-<part name="D1-NEG" library="Scott" deviceset="SCHOTTKY" device="SOD123" value="MBR0520LT1G">
+<part name="D1-NEG" library="Scott" deviceset="SCHOTTKY" device="SOD123" value="MBR0520">
 <attribute name="MPN" value="MBR0520LT3G"/>
 </part>
 <part name="RF1-NEG" library="Scott" deviceset="R-US_" device="R0805" value="84k5 1%">
@@ -10030,7 +10030,7 @@ Source: Samtec TSW.pdf</description>
 <attribute name="MPN" value="RMCF0805JT4R70"/>
 </part>
 <part name="R16" library="Scott" deviceset="R-US_" device="R0805" value="220R">
-<attribute name="MPN" value="RC0805JR-07220RL"/>
+<attribute name="MPN" value="RMCF0805JT220R"/>
 </part>
 <part name="R17" library="Scott" deviceset="R-US_" device="R0805" value="1k2">
 <attribute name="MPN" value="RC2012J122CS"/>
